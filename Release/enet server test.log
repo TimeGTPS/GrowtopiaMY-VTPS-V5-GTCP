@@ -1,0 +1,895 @@
+﻿  server.cpp
+C:\Users\Lineesh\Desktop\GTCP\Server_core.h(472,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(381,27): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(381,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(675,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(689,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(694,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(696,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(838,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(936,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1023,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1037,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1054,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1066,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1218,18): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1219,18): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,271): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,218): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,377): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,325): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,586): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,534): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,482): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1322,695): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(1766,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2349,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2369,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2387,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2407,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2435,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,225): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,332): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,593): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,541): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,489): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2460,702): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2470,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2484,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,277): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,435): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,331): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,592): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,540): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2503,701): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2560,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2565,83): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2733,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2733,41): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2911,2): warning C4286: 'const std::out_of_range &': is caught by base class ('std::exception &') on line 2907
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2911,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,419): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,369): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,319): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,570): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,520): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,470): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2945,675): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,461): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,347): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,633): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,576): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,519): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2950,752): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(2976,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,594): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,542): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,490): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3000,703): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3007,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,281): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,387): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,596): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,544): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3014,705): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3037,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,333): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,594): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,542): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,490): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3062,703): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3069,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,281): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,387): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,596): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,544): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3076,705): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3248,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3248,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3467,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3540,2): warning C4286: 'const std::out_of_range &': is caught by base class ('std::exception &') on line 3536
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3546,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3550,83): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3540,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3576,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3637,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3652,3): warning C4286: 'const std::out_of_range &': is caught by base class ('std::exception &') on line 3648
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3652,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3713,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3717,83): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(3985,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4002,4): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 3997
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4144,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4161,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4178,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4212,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4229,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4246,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4263,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4280,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4297,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4314,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4331,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4348,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_player.h(4365,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(990,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1010,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1040,43): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1041,43): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1162,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1205,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1247,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1258,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1268,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1408,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1417,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1432,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1962,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(1987,3): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 1982
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(2219,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(2220,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(2229,29): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3251,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3252,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3268,152): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3268,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3648,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3649,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3674,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3804,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(3805,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(4291,52): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(4568,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(4959,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(4960,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5315,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5316,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5319,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5357,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5387,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5388,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5495,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5512,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5529,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5546,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5561,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5569,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5570,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5604,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5673,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5687,3): warning C4286: 'const std::out_of_range &': is caught by base class ('std::exception &') on line 5683
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5687,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5710,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5711,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5729,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5752,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,277): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,435): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,331): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,592): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,540): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5764,701): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5785,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5812,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,225): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,332): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,593): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,541): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,489): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5824,702): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(5878,96): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6205,92): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6230,94): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6343,11): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6344,11): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6549,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6553,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6554,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6637,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6637,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6641,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6641,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6818,13): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(6819,13): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7005,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7005,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7583,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7583,103): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7615,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7616,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7636,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7636,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7653,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7653,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7661,156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7661,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7672,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7673,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7674,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(7675,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8053,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8053,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8062,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8062,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8071,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8071,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8080,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8080,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8089,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8089,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8098,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8098,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8118,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8118,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8130,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8130,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8140,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8140,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8150,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8150,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8160,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8160,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8170,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8170,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8180,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8180,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8192,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8192,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8201,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8201,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8210,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8210,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8219,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8219,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8228,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8228,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8237,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8237,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8344,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8344,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8385,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8385,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8409,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8409,17): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8410,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8410,18): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8453,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8453,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8731,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8737,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8741,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8751,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8752,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8770,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8771,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8772,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8881,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(8936,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10065,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10120,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10139,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10371,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10390,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10475,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(10940,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11019,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11334,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11335,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11351,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11351,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11368,9): warning C4551: function call missing argument list
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11436,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_world.h(11461,5): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 11455
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Lineesh\Desktop\GTCP\Player_mods.h(28,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Player_mods.h(28,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(75,11): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(87,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(88,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(103,78): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(356,18): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(377,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(377,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(506,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(506,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(550,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(550,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(565,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1023,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1040,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1057,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1074,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1091,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1108,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1125,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1142,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1159,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1176,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1193,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1210,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1227,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1241,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1262,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(1278,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2698,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2698,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2752,85): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2775,88): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2794,86): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2811,91): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2828,91): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2845,85): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2881,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(2881,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3050,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3050,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3120,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3121,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3732,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3733,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3885,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3885,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3899,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(3899,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4010,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4011,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4033,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4033,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4158,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4159,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4404,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4404,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4409,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4409,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4413,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4413,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4417,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4417,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4421,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4421,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4425,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4425,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4429,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4429,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4588,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4588,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4926,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4926,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4946,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(4946,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(5231,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(5254,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(5642,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(5748,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\Server_tile.h(5748,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(16,18): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(17,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(31,13): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(32,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(35,14): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(63,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\World_events.h(75,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(49,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(52,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(65,19): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(296,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(867,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(874,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(874,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(907,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(914,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(914,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(947,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(954,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(954,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(987,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(994,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(994,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1027,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1034,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1034,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1065,431): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1112,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1119,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1119,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1152,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1159,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1159,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1189,431): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1240,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1247,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1247,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1280,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1287,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1287,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1320,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1327,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1327,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1654,248): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1698,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1698,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1738,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1738,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1777,112): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1777,310): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1813,341): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1856,575): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1907,439): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(1959,431): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2005,341): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2047,275): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2087,242): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,284): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,442): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,390): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,338): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,599): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,547): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,495): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2185,708): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2204,374): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2278,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(2291,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3250,44): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3250,28): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3277,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3366,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3405,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3444,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3483,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3852,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(3924,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4032,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4032,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4089,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4089,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4123,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4294,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4320,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4376,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4561,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4577,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4646,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4665,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4702,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4727,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4769,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4792,79): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4816,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4854,79): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4895,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4896,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4912,79): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(4914,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5075,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5070
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5155,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5150
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5232,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5227
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5309,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5304
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5617,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5612
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5727,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5722
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(5957,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 5952
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6033,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 6028
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6133,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6199,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6250,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 6245
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6338,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6387,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 6382
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6547,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 6542
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6719,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6847,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(6950,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(8333,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(8381,12): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 8376
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9445,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9440
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9498,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9493
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9563,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9558
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9628,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9623
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9776,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9771
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(9860,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 9855
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(10908,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 10903
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(10990,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 10985
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(11072,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 11067
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(11107,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(11197,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(11198,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(12024,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(12394,71): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(12694,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 12689
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(12783,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 12778
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(12908,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 12903
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(13033,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 13028
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(13158,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 13153
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(13309,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 13304
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(13460,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 13455
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(13949,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 13944
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14502,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14497
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14588,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14583
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14673,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14668
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14731,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14726
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14776,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14771
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14840,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14835
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(14919,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 14914
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15033,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15028
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15105,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15142,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15137
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15300,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15295
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15331,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15354,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15349
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15397,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15402,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15423,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15418
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15470,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15509,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15504
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15595,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15590
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15629,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15662,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15657
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15698,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15741,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15736
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15778,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15834,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15829
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15870,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15949,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 15944
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(15984,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16063,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 16058
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16116,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16177,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 16172
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16233,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16769,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16769,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16791,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16865,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 16860
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16976,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(16976,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17003,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17003,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17083,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17083,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17122,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17122,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17312,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17312,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17350,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17350,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17388,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17388,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17425,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17425,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17463,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17463,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17501,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17501,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17670,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17773,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17838,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17887,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 17882
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17931,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(17949,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 17944
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18077,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18192,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18192,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18242,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18242,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18335,11): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18330
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18387,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18438,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18433
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18474,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18519,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18539,8): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18534
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18764,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18798,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18793
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18852,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18898,10): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18893
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(18992,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 18987
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19069,84): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19069,73): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19082,75): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19082,64): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19115,76): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19115,65): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19135,90): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19135,79): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19193,84): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19193,73): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19226,75): warning C4305: '=': truncation from '__int64' to 'long'
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19226,64): warning C4309: '=': truncation of constant value
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(19726,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(20236,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(20502,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(20502,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(20560,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(20560,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,285): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,232): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,443): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,391): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,600): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,496): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(22882,709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(23765,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 23760
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24081,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24101,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24121,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24141,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24162,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24185,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24205,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24225,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24246,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24266,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24286,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24306,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24327,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24347,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24367,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24387,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24408,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24428,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24448,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24468,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24489,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24509,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24529,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24549,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24570,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24590,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24610,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24630,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24651,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24671,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24691,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24711,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24732,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24752,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24772,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24792,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24813,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24833,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24853,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24873,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24895,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24915,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24935,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24955,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24976,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(24996,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25016,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25036,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25057,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25077,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25097,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25117,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25138,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25158,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25178,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25198,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25219,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25239,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25259,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25279,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25300,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25320,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25340,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25360,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25381,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25401,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25421,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25441,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25462,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25482,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25502,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25522,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25543,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25563,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25583,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25603,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25624,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25644,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25664,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(25684,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26045,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26119,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26136,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26177,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26187,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(26439,22): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27312,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27337,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27338,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27346,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27346,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27954,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(27964,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28501,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28511,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,285): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,232): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,180): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,443): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,391): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,600): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,496): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28532,709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28688,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28708,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28709,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28793,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(28804,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(29234,22): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30841,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,309): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,190): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,370): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,666): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,607): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(30847,789): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(31185,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(32756,23): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(33681,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34104,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34105,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34166,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34167,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34199,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34199,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34217,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34217,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34235,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34235,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34253,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34253,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34271,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34271,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34289,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34289,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34307,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34307,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34325,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34325,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34364,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,286): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,444): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,392): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,601): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,549): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,497): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34432,710): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34474,52): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34474,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34550,134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34550,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34571,64): warning C4552: '+': result of expression not used
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34635,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34660,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34685,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(36108,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(36132,7): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 36127
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(36146,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(23760,32): warning C4101: 'exception': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(23765,36): warning C4101: 'error': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(33150,41): warning C4101: 'e': unreferenced local variable
+C:\Users\Lineesh\Desktop\GTCP\server.cpp(34707,20): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 3477 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  enet server test.vcxproj -> C:\Users\Lineesh\Desktop\GTCP\Release\server.exe
